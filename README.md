@@ -1,4 +1,4 @@
-# Utils.DotNetCore.IServiceCollection - Get Config Value extension
+# Utils.DotNetCore.ServiceCollection - Get Config Value extension
 
 A small utility library that extends [`Microsoft.Extensions.Configuration`](https://learn.microsoft.com/en-us/dotnet/api/microsoft.extensions.configuration.iconfiguration) with strongly-typed helpers for retrieving configuration values in a safe and expressive way.
 
@@ -15,7 +15,7 @@ A small utility library that extends [`Microsoft.Extensions.Configuration`](http
 Add a reference to your project:
 
 ```bash
-dotnet add package Utils.DotNetCore.IServiceCollection
+dotnet add package Utils.DotNetCore.ServiceCollection --version 1.0.1
 ```
 
 ## Config file example
