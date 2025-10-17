@@ -1,0 +1,14 @@
+{
+  "ConnectionStrings": {
+    "Default": "Server=myserver;Database=mydb;User Id=sa;Password=secret;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  },
+  "FeatureFlags": {
+    "EnableNewUI": true
+  }
+}
